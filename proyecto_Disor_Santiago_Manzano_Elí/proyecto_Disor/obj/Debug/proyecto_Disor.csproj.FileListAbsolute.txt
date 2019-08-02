@@ -1,0 +1,12 @@
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\bin\Debug\proyecto_Disor.exe.config
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\bin\Debug\proyecto_Disor.exe
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\bin\Debug\proyecto_Disor.pdb
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\obj\Debug\proyecto_Disor.csprojResolveAssemblyReference.cache
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\obj\Debug\proyecto_Disor.Form1.resources
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\obj\Debug\proyecto_Disor.Properties.Resources.resources
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\obj\Debug\proyecto_Disor.csproj.GenerateResource.Cache
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\obj\Debug\proyecto_Disor.exe
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\proyecto_Disor\obj\Debug\proyecto_Disor.pdb
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor_Santiago_Manzano_Elí\proyecto_Disor\bin\Debug\proyecto_Disor.exe.config
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor_Santiago_Manzano_Elí\proyecto_Disor\obj\Debug\proyecto_Disor.exe
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor_Santiago_Manzano_Elí\proyecto_Disor\obj\Debug\proyecto_Disor.pdb

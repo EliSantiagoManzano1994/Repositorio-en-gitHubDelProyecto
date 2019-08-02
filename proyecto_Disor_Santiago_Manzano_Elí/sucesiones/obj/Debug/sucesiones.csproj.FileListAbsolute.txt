@@ -1,0 +1,6 @@
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\sucesiones\obj\Debug\sucesiones.csprojResolveAssemblyReference.cache
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\sucesiones\bin\Debug\sucesiones.exe.config
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\sucesiones\bin\Debug\sucesiones.exe
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\sucesiones\bin\Debug\sucesiones.pdb
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\sucesiones\obj\Debug\sucesiones.exe
+C:\Users\Rouss3\Documents\Visual Studio 2012\Projects\inteligenciaArtificial\proyecto_Disor\sucesiones\obj\Debug\sucesiones.pdb
